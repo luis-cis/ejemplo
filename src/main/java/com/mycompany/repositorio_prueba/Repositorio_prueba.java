@@ -14,5 +14,7 @@ public class Repositorio_prueba {
         System.out.println("Hello World!");
         
         int x;
+        
+        String y = "";
     }
 }
